@@ -1,0 +1,45 @@
+2024-12-18 21:35:31,929 - INFO - Logging initialized.
+2024-12-18 21:35:32,174 - INFO - Starting training with config: yolov8m-seg.yaml, pretrained weights: yolov8m-seg.pt
+2024-12-18 21:36:55,891 - INFO - Logging initialized.
+2024-12-18 21:36:56,159 - INFO - Starting training with config: yolov8m-seg.yaml, pretrained weights: yolov8m-seg.pt
+2024-12-18 21:37:11,365 - INFO - Logging initialized.
+2024-12-18 21:37:11,580 - INFO - Starting training with config: yolov8m-seg.yaml, pretrained weights: yolov8m-seg.pt
+2024-12-18 21:43:25,275 - INFO - Logging initialized.
+2024-12-18 21:43:25,527 - INFO - Starting training with config: yolov8m-seg.yaml, pretrained weights: yolov8m-seg.pt
+2024-12-18 22:23:17,070 - INFO - Logging initialized.
+2024-12-18 22:23:25,444 - INFO - Logging initialized.
+2024-12-18 22:23:46,725 - INFO - Logging initialized.
+2024-12-18 22:25:41,934 - INFO - Logging initialized.
+2024-12-18 22:27:27,112 - INFO - Logging initialized.
+2024-12-18 22:27:49,413 - INFO - Starting training with config: yolo11m-seg.yaml, pretrained weights: yolo11m-seg.pt
+2024-12-23 11:45:48,556 - INFO - Logging initialized.
+2024-12-23 11:45:48,856 - INFO - Starting training with config: yolo11m-seg.yaml, pretrained weights: yolo11m-seg.pt
+2025-01-15 02:13:22,280 - INFO - Logging initialized.
+2025-01-15 02:13:24,703 - INFO - Starting training with config: yolo11m-seg.yaml, pretrained weights: yolo11m-seg.pt
+2025-01-15 02:15:50,878 - INFO - Logging initialized.
+2025-01-15 02:15:53,276 - INFO - Starting training with config: yolo11m-seg.yaml, pretrained weights: yolo11m-seg.pt
+2025-01-15 02:16:31,744 - INFO - Logging initialized.
+2025-01-15 02:16:34,096 - INFO - Starting training with config: yolo11m-seg.yaml, pretrained weights: yolo11m-seg.pt
+2025-01-15 02:17:08,287 - INFO - Logging initialized.
+2025-01-15 02:17:10,713 - INFO - Starting training with config: yolo11m-seg.yaml, pretrained weights: yolo11m-seg.pt
+2025-01-15 02:21:23,189 - INFO - Logging initialized.
+2025-01-15 02:21:25,575 - INFO - Starting training with config: yolo11m-seg.yaml, pretrained weights: yolo11m-seg.pt
+2025-01-15 02:21:54,843 - INFO - Logging initialized.
+2025-01-15 02:21:57,351 - INFO - Starting training with config: yolo11m-seg.yaml, pretrained weights: yolo11m-seg.pt
+2025-01-15 02:24:18,173 - INFO - Logging initialized.
+2025-01-15 02:24:20,680 - INFO - Starting training with config: yolo11m-seg.yaml, pretrained weights: yolo11m-seg.pt
+2025-01-15 02:25:37,947 - INFO - Logging initialized.
+2025-01-15 02:25:40,341 - INFO - Starting training with config: yolo11m-seg.yaml, pretrained weights: yolo11m-seg.pt
+2025-01-15 02:30:37,386 - INFO - Logging initialized.
+2025-01-15 02:30:38,234 - INFO - Starting training with config: yolo11m-seg.yaml, pretrained weights: yolo11m-seg.pt
+2025-01-15 02:32:08,786 - INFO - Logging initialized.
+2025-01-15 02:32:09,566 - INFO - Starting training with config: yolo11m-seg.yaml, pretrained weights: yolo11m-seg.pt
+2025-01-15 02:32:35,980 - INFO - Logging initialized.
+2025-01-15 02:32:36,760 - INFO - Starting training with config: yolo11m-seg.yaml, pretrained weights: yolo11m-seg.pt
+2025-01-15 02:32:54,556 - INFO - Logging initialized.
+2025-01-15 02:32:55,328 - INFO - Starting training with config: yolo11m-seg.yaml, pretrained weights: yolo11m-seg.pt
+2025-01-15 02:34:24,858 - INFO - Logging initialized.
+2025-01-15 02:34:25,627 - INFO - Starting training with config: yolo11m-seg.yaml, pretrained weights: yolo11m-seg.pt
+2025-01-15 03:33:06,628 - ERROR - Results image not found at outputs/segment/train/train/results.png
+2025-01-15 03:33:06,845 - INFO - Model saved at outputs/models/yolo_segmentation_model.pt
+2025-01-15 03:33:06,845 - INFO - Training completed successfully.

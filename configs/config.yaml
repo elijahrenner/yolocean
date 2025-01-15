@@ -1,0 +1,36 @@
+# Configuration File
+
+paths:
+  input: "data/SUIM"
+  output: "outputs"
+
+classes:
+  0: Background
+  1: Human divers
+  2: Aquatic plants and sea-grass
+  3: Wrecks and ruins
+  4: Robots
+  5: Reefs and invertebrates
+  6: Fish and vertebrates
+  7: Sea-floor and rocks
+
+training:
+  epochs: 100
+  batch_size: 16  # Default batch size
+  learning_rate: 0.01  # Learning rate used by YOLO
+  augmentation:
+    degrees: 60
+    shear: 30
+    perspective: 0.0005
+  model_config: "yolo11m-seg.yaml"
+  pretrained_weights: "yolo11m-seg.pt"
+
+wandb:
+  enable: false  # Set to true if using Weights & Biases
+  api_key: ""  # W&B API key or set as an environment variable
+
+evaluation:
+  metrics:
+    map50: true
+
+model_save_path: "outputs/models/yolo_segmentation_model.pt"

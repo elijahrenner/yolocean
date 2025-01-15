@@ -1,0 +1,30 @@
+Dataset name: SUIM
+Nature: Dataset for semantic segmentation of underwater imagery 
+Source: https://irvlab.cs.umn.edu/resources/usr-248-dataset
+Paper: https://arxiv.org/pdf/2004.01241.pdf
+
+
+RGB color code and object categories:
+-------------------------------------
+000 BW: Background waterbody
+001 HD: Human divers
+010 PF: Plants/sea-grass
+011 WR: Wrecks/ruins
+100 RO: Robots/instruments
+101 RI: Reefs and invertebrates
+110 FV: Fish and vertebrates
+111 SR: Sand/sea-floor (& rocks)
+
+
+Statistics
+-----------------------------------------------------------------------------
+train_val/ contains 1525 images for training/validation
+TEST/ contains 110 images for benchmark evaluation (do not alter)
+
+
+Additionals
+-----------------------------------------------------------------------------
+Checkpoint_Data/ contains pretrained checkpoints for SOTA models (see paper)
+Benchmark_Evaluation/ contains the corresponding test-set results  
+
+

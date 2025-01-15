@@ -1,0 +1,18 @@
+# Root directory for the dataset (relative to the location where you run the training script)
+path: ./outputs
+
+# Train/val/test sets (relative to the root directory)
+train: images/train
+val: images/val
+test: images/test
+
+# Class names
+names:
+  0: Background
+  1: Human divers
+  2: Aquatic plants and sea-grass
+  3: Wrecks and ruins
+  4: Robots
+  5: Reefs and invertebrates
+  6: Fish and vertebrates
+  7: Sea-floor and rocks

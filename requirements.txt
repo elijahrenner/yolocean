@@ -1,0 +1,9 @@
+matplotlib
+opencv-python
+pandas
+numpy
+ipywidgets
+wandb
+ultralytics
+PyYAML
+Pillow
