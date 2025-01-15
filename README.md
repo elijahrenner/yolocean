@@ -1,6 +1,7 @@
 # yolocean
 
 ![Project Banner](images/example.gif)
+[[Elijah Renner](https://elijahrenner.com), Isabel Beckman | Advisor: [Dr. Alberto Quattrini Li](https://web.cs.dartmouth.edu/people/alberto-quattrini-li)]
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -104,7 +105,6 @@ python tests/test.py
 ## Credits
 - SUIM Dataset: [SUIM Dataset](https://irvlab.cs.umn.edu/resources/suim-dataset)
 - YOLO Framework: [Ultralytics](https://github.com/ultralytics)
-- Contributors: [Elijah Renner](https://elijahrenner.com), Isabel Beckman, [Dr. Alberto Quattrini Li](https://web.cs.dartmouth.edu/people/alberto-quattrini-li)
 
 ---
 For any issues or contributions, feel free to open an issue or submit a pull request. 
